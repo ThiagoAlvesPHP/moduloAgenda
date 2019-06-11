@@ -89,7 +89,7 @@
             <div class="col-sm-6">
                 <h4>Agenda</h4>
             </div>
-            <div class="col-sm-6">
+            <!-- <div class="col-sm-6">
                 <select class="form-control">
                     <option>Selecione um mês</option>
                     <?php
@@ -114,7 +114,7 @@
                     }
                     ?>
                 </select>
-            </div>
+            </div> -->
         </div>
         <hr>
         <table class="table table-hover">
